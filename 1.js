@@ -39,10 +39,10 @@ console.log(phoneBrands.indexOf('Xiaomi'))
 
 //g. concat
 //digunakan untuk menggabungkan 2 atau lebih array
-const classA = ['John', 'Tom']
-const classB = ['Alex', 'Edward']
-const classC = ['Steve', 'Junior']
-console.log(classA.concat(classB, classC))
+const itemA = ['Tas', 'Buku']
+const itemB = ['Kemeja', 'Celana']
+const itemC = ['Sepatu', 'Sandal']
+console.log(itemA.concat(itemB, itemC))
 
 //h. slice
 //digunakan untuk memilih satu atau beberapa item dari sebuah array
